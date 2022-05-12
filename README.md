@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamamw
 - 👀 I’m interested in... software development
 - 🌱 I’m currently learning...Full Stack Javascript
-- 💞️ I’m looking to collaborate on ...Any kind of app development
+- 💞️ I’m looking to collaborate on ...App and game development
 - 📫 How to reach me ...Adamamw@gmail.com
 
 <!---
